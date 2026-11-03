@@ -1,0 +1,8 @@
+{
+  "name": "Cooling Load ML Predictor",
+  "description": "AI & machine learning building energy predictor for cooling/heating loads, thermal envelope optimization, and HVAC sizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
